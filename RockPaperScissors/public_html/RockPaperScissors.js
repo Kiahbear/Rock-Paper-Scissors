@@ -1,3 +1,4 @@
+//Kiah Nicholson-Wilcox
 function generateComputerChoice() {
 //generate a random number between 1 and 3
 //1 = rock, 2 = paper, 3 = scissors
